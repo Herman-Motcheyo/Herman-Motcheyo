@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm Herman Tcheneghon Motcheyo
 
-🎯 Passionate about data engineering, machine learning and building real-world AI applications. 
-
+🎯 Passionate about data science, machine learning and building real-world AI applications. 
 ---
 
 ### 🚀 Current Focus
-- 🌱 Learning: MLOps, LLM, and Advanced Machine Learning  
+- 🌱 Learning: MLOps, and Advanced Machine Learning  
 - 👯 Looking to collaborate on: Machine learning projects and AI4Good projects  
 - 🤔 Seeking help with: Efficient deployment pipelines & CI/CD for ML  
 
@@ -36,6 +35,3 @@
 
 ### ⚡ Fun Fact
 I believe data science is the new oil – but only when refined with good engineering and purpose.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herman-Motcheyo)](https://github.com/anuraghazra/github-readme-stats)
