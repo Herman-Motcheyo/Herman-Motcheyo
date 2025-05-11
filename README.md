@@ -18,13 +18,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herman-Motcheyo&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Herman-Motcheyo&theme=gruvbox" alt="Trophies" />
