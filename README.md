@@ -6,7 +6,7 @@
 ### 🚀 Current Focus
 - 🌱 Learning: MLOps, and Advanced Machine Learning  
 - 👯 Looking to collaborate on: Machine learning projects and AI4Good projects  
-- 🤔 Seeking help with: Efficient deployment pipelines & CI/CD for ML  
+- 🤔 Seeking help with: Efficient deployment pipelines & CI/CD for ML  ? Call or write me.
 
 ---
 
