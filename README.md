@@ -1,13 +1,11 @@
 ## Hi there 👋 I'm Herman Tcheneghon Motcheyo
 
-🎯 Passionate about data science, machine learning and building real-world AI applications. 
+🎯 Passionate about AI, ML and building real-world AI applications. 
 ---
 
 ### 🚀 Current Focus
-- 🌱 Learning: MLOps, and Advanced Machine Learning  
-- 👯 Looking to collaborate on: Machine learning projects and AI4Good projects  
-- 🤔 Seeking help with: Efficient deployment pipelines & CI/CD for ML  ? Call or write me.
-
+- 🌱 Learning: MLOps,NLP, LLM and Advanced Machine Learning  
+- 👯 Looking to collaborate on: AI/ML/DL projects and AI4Good projects  
 ---
 
 ### 💬 Let's Connect
