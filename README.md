@@ -16,12 +16,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herman-Motcheyo&theme=gruvbox" alt="Trophies" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 I believe data science is the new oil – but only when refined with good engineering and purpose.
