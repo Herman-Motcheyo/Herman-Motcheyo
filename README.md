@@ -11,7 +11,7 @@
 ###  Let's Connect
 - 📫 Email: **hermanmotcheyo@gmail.com**  
 - 🌐 Blog: [medium.com/@hermantcm](https://hermanmotcheyo.medium.com/)  
-- 🐦 Twitter: [@tcheneghon_m_h](https://twitter.com/tcheneghon_m_h)  
+- 🐦 X: [@tcheneghon_m_h](https://twitter.com/tcheneghon_m_h)  
 - 💼 LinkedIn: [Herman Tcheneghon](https://www.linkedin.com/in/herman-tcheneghon-motcheyo-8b95a7180/)
 
 ---
